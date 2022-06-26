@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_202"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/antlr4-runtime-4.9.1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/byte-buddy-1.12.8.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/hibernate-commons-annotations-6.0.0.CR1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/hibernate-core-6.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/hibernate-validator-7.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/istack-commons-runtime-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.activation-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.el-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.el-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.inject-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.persistence-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.transaction-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.validation-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/javax.el-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jaxb-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jaxb-runtime-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/jtds-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/protobuf-java-3.11.4.jar"/>
+	<classpathentry kind="lib" path="/ESWIII_PERSISTENCE/lib/txw2-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
